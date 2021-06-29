@@ -4,7 +4,7 @@
 * Interested in open source development and specifically **Desktop Applications**
 * Software bots are cool too (discord, reddit, twitter etc)
 
-Languages I have at least a passing knowledge of (can at least do a simple application and know where to find resources):
+Languages I have at least a passing knowledge of:
 1. C#
 2. Python
 3. Vala
