@@ -8,11 +8,10 @@ Languages I have at least a passing knowledge of:
 1. C#
 2. Python
 3. Vala
-4. D
-5. Go
-6. Bash
-7. Java
-8. Javascript (I guess, if I **HAVE** to)
+4. Go
+5. Bash
+6. Java
+7. Javascript (I guess, if I **HAVE** to)
   
   
 Emotional supporter of [Elementary OS](https://github.com/elementary) **go check them out!** 
