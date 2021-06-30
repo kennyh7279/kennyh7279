@@ -1,6 +1,6 @@
 # 😷 Kenny's House of Development Disasters 😷
 
-* Currently working through some tutorials on 🌳🏠 covering C# and DotNet and Object Oriented programming in general
+* Currently working through some tutorials on 🌳🏠
 * Interested in open source development and specifically **Desktop Applications**
 * Software bots are cool too (discord, reddit, twitter etc)
 
