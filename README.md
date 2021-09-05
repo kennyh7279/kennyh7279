@@ -1,14 +1,7 @@
 # 😷 Kenny's House of Development Disasters 😷
 
-* Currently working through some tutorials on 🌳🏠
-* Interested in open source development and specifically **Desktop Applications**
-* Software bots are cool too (discord, reddit, twitter etc)
-
-    | I kinda know |   I wanna know   | Just Cool |
-    | :----------: | :--------------: | :-------: |
-    | Python       | Golang (Current) | Sonic-Pi  |
-    | Java         | Rust             | Zig       |
-    | Bash         | Vala             | Haskell   |
+Due to outside circumstances there will be no more new projects on this account,  I will now be using
+[gitlab](https://gitlab.com/kennyh7279) exclusively
   
   
 Emotional supporter of [Elementary OS](https://github.com/elementary) **go check them out!** 
