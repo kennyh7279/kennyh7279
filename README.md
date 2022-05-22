@@ -10,6 +10,7 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 * Java
 * MacOS
 * Docker (sort of)
+* Notion
 
 🤔 I'm looking for help with:
 * Insomnia
