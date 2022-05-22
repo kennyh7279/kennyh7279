@@ -21,7 +21,7 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 
 📫 How to reach me:  
   
-**All these can be found on my github profile**
+* [This repositories discussions](https://github.com/kennyh7279/kennyh7279/discussions)
 * Email
 * Twitter (I hardly post but I'll get the message)
 * Blog
