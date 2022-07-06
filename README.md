@@ -7,8 +7,7 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 ## Some Infos  
 
 🧠 I'm currently learning:
-* C#
-* Xamrin
+* Python
 * MacOS
 * Docker (sort of)
 * Notion
