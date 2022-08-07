@@ -8,9 +8,8 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 
 🧠 I'm currently learning:
 * Python
-* MacOS
-* Docker (sort of)
-* Notion
+* PySimpleGUI
+* Godot
 
 🤔 I'm looking for help with:
 * Insomnia
