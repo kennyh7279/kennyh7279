@@ -5,9 +5,9 @@ I'm 40+ years old, looking to learn programming properly for the first time.
 My goal ultimately is to tinker on personal projects and possibly contribute to some open source projects in the future.
 
 ## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennyh7279&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennyh7279&show_icons=true&theme=gruvbox)
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyh7279&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyh7279&layout=compact&theme=gruvbox)
 
 ## Some Infos  
 
