@@ -28,5 +28,7 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 ⚡️ Fun fact:  
 I have been around the world 3 times and nearly everywhere I've gone has had a "Euclid" street somewhere.
 
+---
+# If you have time take a look at Adventures with purpose, they do great work finding missing people
 [![Adventures_With_Purpose](awp.png)](https://adventureswithpurpose.com/)
 
