@@ -1,6 +1,6 @@
 
 # 😷 Kenny's House of Development Disasters 😷
-I'm 42 years old, looking to learn programming properly for the first time.  
+I'm 40+ years old, looking to learn programming properly for the first time.  
 
 My goal ultimately is to tinker on personal projects and possibly contribute to some open source projects in the future.
 
@@ -32,3 +32,7 @@ I have been around the world 3 times and nearly everywhere I've gone has had a "
 # If you have time take a look at Adventures with Purpose, they do great work finding missing people
 [![Adventures_With_Purpose](awp.png)](https://adventureswithpurpose.com/)
 
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennyh7279&show_icons=true)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyh7279&theme=blue-green)
