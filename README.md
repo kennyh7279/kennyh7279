@@ -7,7 +7,7 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennyh7279&show_icons=true)
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyh7279&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyh7279&layout=compact)
 
 ## Some Infos  
 
