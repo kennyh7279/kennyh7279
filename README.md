@@ -14,7 +14,6 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 🧠 I'm currently learning:
 * c#
 * crystal
-* nim
 
 🤔 I'm looking for help with:
 * Insomnia
