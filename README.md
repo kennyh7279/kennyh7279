@@ -12,9 +12,9 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 ## Some Infos  
 
 🧠 I'm currently learning:
-* Python
-* PySimpleGUI
-* Godot
+* c#
+* crystal
+* nim
 
 🤔 I'm looking for help with:
 * Insomnia
