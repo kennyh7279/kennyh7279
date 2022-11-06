@@ -12,8 +12,7 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 ## Some Infos  
 
 🧠 I'm currently learning:
-* Python
-* Qt/QtQuick/QML
+* c#/dotnet
 
 🤔 I'm looking for help with:
 * Insomnia
