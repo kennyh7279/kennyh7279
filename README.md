@@ -12,7 +12,10 @@ My goal ultimately is to tinker on personal projects and possibly contribute to 
 ## Some Infos  
 
 🧠 I'm currently learning:
-* c#/dotnet
+* c#/dotnet/maui
+* swift
+* python
+* javascript
 
 🤔 I'm looking for help with:
 * Insomnia
