@@ -4,8 +4,6 @@ I'm 40+ years old, looking to learn programming properly for the first time.
 
 My goal ultimately is to tinker on personal projects and possibly contribute to some open source projects in the future.
 
-I just can't do linux anymore, it and the community have dissapointed me for the last time.
-
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kennyh7279&show_icons=true&theme=gruvbox)
 ## Most Used Languages
